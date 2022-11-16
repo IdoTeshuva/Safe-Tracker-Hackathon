@@ -32,5 +32,9 @@ Child SOS button:
 Parent SOS alert:
 <br/>
 <img width="381" alt="צילום מסך 2022-10-31 ב-11 06 24" src="https://user-images.githubusercontent.com/110329048/198972020-d7c274b1-21ba-4c9b-a6ad-bb011851e200.png">
+<br/>
+Currently developing the next version:
+<br/>
+![newversion](https://user-images.githubusercontent.com/110329048/202114555-9854175f-5f6c-4f18-88c0-ab72749c4dc8.jpeg)
 
 
